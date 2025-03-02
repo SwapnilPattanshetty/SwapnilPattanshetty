@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Swapnil Pattanshetty</h1>
-<h3 align="center">A passionate Data Scientist from Bengaluru, India</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Swapnil Pattanshetty</h1>
+<h3 align="center">A passionate Data scientist from Bengaluru, India</h3>
 
-- 🌱 I’m currently learning **Product management**
-  
-- 💬 Ask me about **Analytics, AIML, Product management**
-
-- 📫 How to reach me **swapnilpattanshetty.data@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BAdUQNFgM5kvWFiYOAAeiW6g77uqWIJ7/view?usp=sharing)
-
-- ⚡ Fun fact **I am an avid traveller and only addicted to new experiences**
+- 🌱 I’m currently learning **Product management**  
+- 💬 Ask me about **Analytics, AIML, Product management**  
+- 📫 How to reach me **swapnilpattanshetty.data@gmail.com**  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BAdUQNFgM5kvWFiYOAAeiW6g77uqWIJ7/view?usp=sharing)  
+- 🔗 Founding member of the product: [Data All In](https://dataallin.in/)  
+- 💼 Portfolio of my PG in Data Science: [My E-Portfolio](https://eportfolio.mygreatlearning.com/swapnil-pattanshetty)  
+- ⚡ Fun fact **I am an avid traveller and only addicted to new experiences**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,20 +36,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<!-- Adding Animated GIF or Stats Section -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilpattanshetty&show_icons=true&locale=en&layout=compact" alt="swapnilpattanshetty" />
-</p>
-
-<!-- Adding Animated GIF Example -->
-<h3 align="center">Feel free to explore my work and contributions:</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xtiTuxrLPcmTu8/giphy.gif" alt="animated-gif" width="150" />
-</p>
-
-<!-- You can add the following links as well -->
-<p align="center">
-  <a href="https://dataallin.in/" target="_blank">Founding member of the Product Data All In</a> | 
-  <a href="https://eportfolio.mygreatlearning.com/swapnil-pattanshetty" target="_blank">Portfolio of My PG Data Science</a>
 </p>
