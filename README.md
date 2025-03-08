@@ -11,17 +11,17 @@
 
 <h3 align="left">Work Experience:</h3>
 <p align="center" class="work-experience">
-  <a href="https://www.uber.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.uber.com/" target="_blank" rel="noreferrer" class="company-item">
     <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" class="company-logo"/>
     <br/>
     <span class="company-name">Uber</span>
   </a>
-  <a href="https://www.joveo.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.joveo.com/" target="_blank" rel="noreferrer" class="company-item">
     <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" class="company-logo"/>
     <br/>
     <span class="company-name">Joveo</span>
   </a>
-  <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer" class="company-item">
     <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" class="company-logo"/>
     <br/>
     <span class="company-name">Indium Tech</span>
@@ -33,7 +33,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 40px;
+  }
+
+  .company-item {
+    text-align: center;
+    text-decoration: none;
   }
 
   .company-logo {
@@ -43,18 +48,13 @@
   }
 
   .company-name {
-    display: block;
-    text-align: center;
     font-size: 14px;
     margin-top: 5px;
-  }
-
-  /* Ensures logos and text align properly */
-  .work-experience a {
-    text-decoration: none;
-    color: black;
+    color: #333;
   }
 </style>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
