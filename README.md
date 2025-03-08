@@ -12,13 +12,13 @@
 <h3 align="left">Work Experience:</h3>
 <p align="center">
   <a href="https://www.uber.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/bjTNCcDv/Uber-thumbnail.png" alt="Uber" width="150" height="80"/>
+    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" width="150" height="80"/>
   </a>
   <a href="https://www.joveo.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/V016BGr1/Whats-App-Image-2025-03-08-at-18-29-00-fb27fb21.jpg" alt="Joveo" width="150" height="80"/>
+    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" width="150" height="80"/>
   </a>
   <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/ZzwGjkf2/indium.png" alt="Indium Tech" width="150" height="80"/>
+    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" width="150" height="80"/>
   </a>
 </p>
 
