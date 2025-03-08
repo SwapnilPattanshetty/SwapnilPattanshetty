@@ -10,52 +10,25 @@
 - ⚡ Fun fact **I am an avid traveller and only addicted to new experiences**  
 
 <h3 align="left">Work Experience:</h3>
-<p align="center" class="work-experience">
-  <a href="https://www.uber.com/" target="_blank" rel="noreferrer" class="company-item">
-    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" class="company-logo"/>
+<p align="center">
+  <a href="https://www.uber.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
+    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" width="120" height="60" style="vertical-align: middle;"/>
     <br/>
-    <span class="company-name">Uber</span>
+    <span>Uber</span>
   </a>
-  <a href="https://www.joveo.com/" target="_blank" rel="noreferrer" class="company-item">
-    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" class="company-logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.joveo.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
+    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" width="120" height="60" style="vertical-align: middle;"/>
     <br/>
-    <span class="company-name">Joveo</span>
+    <span>Joveo</span>
   </a>
-  <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer" class="company-item">
-    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" class="company-logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
+    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" width="120" height="60" style="vertical-align: middle;"/>
     <br/>
-    <span class="company-name">Indium Tech</span>
+    <span>Indium Tech</span>
   </a>
 </p>
-
-<style>
-  .work-experience {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
-  }
-
-  .company-item {
-    text-align: center;
-    text-decoration: none;
-  }
-
-  .company-logo {
-    width: 150px;
-    height: 80px;
-    object-fit: contain;
-  }
-
-  .company-name {
-    font-size: 14px;
-    margin-top: 5px;
-    color: #333;
-  }
-</style>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
