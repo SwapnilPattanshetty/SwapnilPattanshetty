@@ -12,15 +12,18 @@
 <h3 align="left">Work Experience:</h3>
 <p align="center">
   <a href="https://www.uber.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" width="150" height="80"/>
+    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" width="200" height="100"/>
   </a>
+  <span>&nbsp;&nbsp;&nbsp;</span> <!-- Adds space between images -->
   <a href="https://www.joveo.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" width="150" height="80"/>
+    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" width="200" height="100"/>
   </a>
+  <span>&nbsp;&nbsp;&nbsp;</span> <!-- Adds space between images -->
   <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" width="150" height="80"/>
+    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" width="200" height="100"/>
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
