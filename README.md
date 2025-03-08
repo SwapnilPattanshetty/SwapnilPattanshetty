@@ -11,24 +11,21 @@
 
 <h3 align="left">Work Experience:</h3>
 <p align="center">
-  <a href="https://www.uber.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
-    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" width="120" height="60" style="vertical-align: middle;"/>
-    <br/>
-    <span>Uber</span>
+  <a href="https://www.uber.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/8DG7mnLS/uber-png-final.png" alt="Uber" width="200" height="100"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.joveo.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
-    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" width="120" height="60" style="vertical-align: middle;"/>
-    <br/>
-    <span>Joveo</span>
+  <span>&nbsp;&nbsp;&nbsp;</span> <!-- Adds space between images -->
+  <a href="https://www.joveo.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/FL2X2hKK/joveo-png-ifnal.png" alt="Joveo" width="200" height="100"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 10px;">
-    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" width="120" height="60" style="vertical-align: middle;"/>
-    <br/>
-    <span>Indium Tech</span>
+  <span>&nbsp;&nbsp;&nbsp;</span> <!-- Adds space between images -->
+  <a href="https://www.indiumsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/3YjX9KNd/indium-png-final.png" alt="Indium Tech" width="200" height="100"/>
   </a>
 </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
